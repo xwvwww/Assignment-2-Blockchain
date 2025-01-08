@@ -89,17 +89,8 @@ AIModelMarketplace/
 ```
 
 ## Demo Screenshots
-1. **Model Listing Form**:
-   ![Model Listing Form](demo/list-model.png)
 
-2. **Marketplace View**:
-   ![Marketplace View](demo/marketplace-view.png)
-
-3. **Purchase Model**:
-   ![Purchase Model](demo/purchase-model.png)
-
-4. **Rating Form**:
-   ![Rating Form](demo/rating-form.png)
+**All Demo Screenshot is here ![Demo](AIModelMarketPlace/Usage)**
 
 ## Example Usage
 1. **List a Model**:
