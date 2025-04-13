@@ -6,7 +6,7 @@ Done by SE-2315: Almen Alnur, Kamilya Tlegenova, Nuray Kabylkhanova
 
 ## Features
 
-- Builded and Deplyoed Rust Smart Contract to DevNet
+- Builded and Deployed Rust Smart Contract to DevNet
 
 ## Technology Stack
 
