@@ -12,7 +12,7 @@ Done by SE-2315: Almen Alnur, Kamilya Tlegenova, Nuray Kabylkhanova
 
 - Rust: The programming language for building Solana programs.
 - Solana CLI: Command-line tool for Solana development.
-- 
+
 ## Project Structure
 
 ```
